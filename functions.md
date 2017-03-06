@@ -1,7 +1,7 @@
 # Functions
 A function is a set of instructions that belong together.
 
-Two kinds of functions:
+Two kinds of functions:__
 	* Named functions: Will work when it is called.
 	* Anonymous functions: Will work automatically ones it's turn arrives within the scope.
 
