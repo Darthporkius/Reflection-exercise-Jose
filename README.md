@@ -18,7 +18,7 @@ Concepts:
 - Iteration loops (for and while)
 - Anonymous callback functions
 - Promises
-- Fie system module
+- File system module
 - Express
 - Body parser
 - html marup
