@@ -21,7 +21,7 @@ Concepts:
 - File system module
 - Express
 - Body parser
-- html marup
+- html markup
 - jQuery
 - Pug (discuss syntax and variables)
 - AJAX
