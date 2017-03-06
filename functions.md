@@ -2,9 +2,9 @@
 A function is a set of instructions that belong together.
 
 Two kinds of functions:
-	- named functions
+	* named functions
 		Will work when it is called.
-	- annonymus functions
+	* anonymous functions
 		Will work automatically ones it's turn arrives within the scope.
 
 ## Named function
@@ -22,7 +22,7 @@ myFunction(3);
 
 ```
 
-## Annonymus function
+## Anonymous function
 ```javascript
 
 var blarg = 3;
