@@ -2,10 +2,8 @@
 A function is a set of instructions that belong together.
 
 Two kinds of functions:
-	* named functions
-		Will work when it is called.
-	* anonymous functions
-		Will work automatically ones it's turn arrives within the scope.
+	* Named functions: Will work when it is called.
+	* Anonymous functions: Will work automatically ones it's turn arrives within the scope.
 
 ## Named function
 ```javascript
